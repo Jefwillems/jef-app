@@ -1,4 +1,4 @@
-baseURL = "https://jef.app/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Jef"
 theme = "terminal"
